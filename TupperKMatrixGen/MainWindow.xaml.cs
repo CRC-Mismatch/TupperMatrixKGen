@@ -43,11 +43,11 @@ namespace TupperKMatrixGen
                 return;
             }
             drawGrid =  1;
-            for (int i = 0; i < 106; i++)
+            for (int x = 0; x < 106; x++)
             {
-                for (int j = 0; j < 17; j++)
+                for (int y = 0; y < 17; y++)
                 {
-                    Rectangle r = (Rectangle)FindName("Rect" + i + "x" + j);
+                    Rectangle r = (Rectangle)FindName("Rect" + x + "x" + y);
                     r.StrokeThickness = (r.StrokeThickness == 0) ? drawGrid : 4;
                 }
             }
@@ -71,11 +71,11 @@ namespace TupperKMatrixGen
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            for (int i = 0; i < 106; i++)
+            for (int x = 0; x < 106; x++)
             {
-                for (int j = 0; j < 17; j++)
+                for (int y = 0; y < 17; y++)
                 {
-                    Rectangle r = (Rectangle)FindName("Rect" + i + "x" + j);
+                    Rectangle r = (Rectangle)FindName("Rect" + x + "x" + y);
                     r.StrokeThickness = drawGrid;
                 }
             }
@@ -84,11 +84,11 @@ namespace TupperKMatrixGen
         private void CheckBox_Unchecked(object sender, RoutedEventArgs e)
         {
             drawGrid = 0;
-            for (int i = 0; i < 106; i++)
+            for (int x = 0; x < 106; x++)
             {
-                for (int j = 0; j < 17; j++)
+                for (int y = 0; y < 17; y++)
                 {
-                    Rectangle r = (Rectangle)FindName("Rect" + i + "x" + j);
+                    Rectangle r = (Rectangle)FindName("Rect" + x + "x" + y);
                     r.StrokeThickness = (r.StrokeThickness == 1) ? drawGrid : 4;
                 }
             }
