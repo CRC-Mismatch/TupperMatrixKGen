@@ -1,0 +1,16 @@
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\bin\Debug\TupperKMatrixGen.exe.config
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\bin\Debug\TupperKMatrixGen.exe
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\bin\Debug\TupperKMatrixGen.pdb
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\MainWindow.baml
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\MainWindow.g.cs
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\App.g.cs
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\TupperKMatrixGen_MarkupCompile.cache
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\TupperKMatrixGen.g.resources
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\TupperKMatrixGen.Properties.Resources.resources
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\TupperKMatrixGen.csproj.GenerateResource.Cache
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\TupperKMatrixGen.exe
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\TupperKMatrixGen.pdb
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\bin\Debug\pt-BR\TupperKMatrixGen.resources.dll
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\TupperKMatrixGen.Properties.Resource.pt-BR.resources
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\pt-BR\TupperKMatrixGen.resources.dll
+e:\users\kmkraiker\documents\visual studio 2013\Projects\TupperKMatrixGen\TupperKMatrixGen\obj\Debug\TupperKMatrixGen_MarkupCompile.lref
